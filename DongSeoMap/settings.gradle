@@ -1,0 +1,2 @@
+rootProject.name='DongSeoMap'
+include ':app'
